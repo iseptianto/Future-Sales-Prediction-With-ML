@@ -50,7 +50,7 @@ The dataset consists of the following columns:
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone ttps://github.com/your-username/Future-Sales-Prediction.git](https://github.com/iseptianto/Future-Sales-Prediction-With-ML.git
+   git clone https://github.com/iseptianto/Future-Sales-Prediction-With-ML.git
    ```
 2. Navigate to the project folder:
    ```bash
