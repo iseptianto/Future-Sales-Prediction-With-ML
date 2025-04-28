@@ -52,22 +52,6 @@ The dataset consists of the following columns:
    ```bash
    git clone https://github.com/iseptianto/Future-Sales-Prediction-With-ML.git
    ```
-2. Navigate to the project folder:
-   ```bash
-   cd Future-Sales-Prediction
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Flask app:
-   ```bash
-   python flask_app/app.py
-   ```
-5. Access the web application at:
-   ```
-   http://127.0.0.1:5000/
-   ```
 
 ## ✨ Results & Insights
 - **TV advertising** might have the highest correlation with sales.
