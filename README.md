@@ -1,7 +1,3 @@
-Sure! Here's a **README.md** file for your GitHub repository on *Future Sales Prediction with Machine Learning*. This README will help explain your project, its purpose, setup instructions, and usage.
-
----
-
 # 📊 Future Sales Prediction with Machine Learning
 
 ## 🔍 Overview
